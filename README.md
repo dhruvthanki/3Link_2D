@@ -1,3 +1,3 @@
 # 3Link_2D
-Simulating an Asymptotically Stable 3-Link Biped Robot with Hybrid Dynamics
+Simulating an Asymptotically Stable 3-Link Biped Robot with Hybrid Dynamics<br/>
 main.m is the entry point.
